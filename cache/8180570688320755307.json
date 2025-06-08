@@ -1,0 +1,343 @@
+{
+  "timestamp": "2025-06-08T17:08:45.863359",
+  "data": {
+    "recipes": [
+      {
+        "id": 663206,
+        "image": "https://img.spoonacular.com/recipes/663206-556x370.jpg",
+        "imageType": "jpg",
+        "title": "The Best Arugula Pesto",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.foodista.com/recipe/YRL26VJF/the-best-arugula-pesto",
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": true,
+        "dairyFree": false,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "lowFodmap": false,
+        "weightWatcherSmartPoints": 4,
+        "gaps": "no",
+        "preparationMinutes": null,
+        "cookingMinutes": null,
+        "aggregateLikes": 3,
+        "healthScore": 6.0,
+        "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+        "license": "CC BY 3.0",
+        "sourceName": "Foodista",
+        "pricePerServing": 91.09,
+        "extendedIngredients": [
+          {
+            "id": 11959,
+            "aisle": "Produce",
+            "image": "arugula-or-rocket-salad.jpg",
+            "consistency": "SOLID",
+            "name": "arugula",
+            "nameClean": "arugula",
+            "original": "2 cups of arugula, packed",
+            "originalName": "arugula, packed",
+            "amount": 2.0,
+            "unit": "cups",
+            "meta": [
+              "packed"
+            ],
+            "measures": {
+              "us": {
+                "amount": 2.0,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 40.0,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 1034053,
+            "aisle": "Oil, Vinegar, Salad Dressing",
+            "image": "olive-oil.jpg",
+            "consistency": "LIQUID",
+            "name": "extra virgin olive oil",
+            "nameClean": "extra virgin olive oil",
+            "original": "1/2 cup Extra Virgin Olive Oil",
+            "originalName": "Extra Virgin Olive Oil",
+            "amount": 0.5,
+            "unit": "cup",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 0.5,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 108.0,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 10211297,
+            "aisle": "Produce",
+            "image": "parsley.jpg",
+            "consistency": "SOLID",
+            "name": "flat leaf parsley",
+            "nameClean": "flat leaf parsley",
+            "original": "1/4 cup fresh flat leaf Italian parsley, packed",
+            "originalName": "fresh flat leaf Italian parsley, packed",
+            "amount": 0.25,
+            "unit": "cup",
+            "meta": [
+              "fresh",
+              "italian",
+              "packed"
+            ],
+            "measures": {
+              "us": {
+                "amount": 0.25,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 15.0,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 10211215,
+            "aisle": "Produce",
+            "image": "garlic.jpg",
+            "consistency": "SOLID",
+            "name": "garlic cloves",
+            "nameClean": "garlic cloves",
+            "original": "3 garlic cloves",
+            "originalName": "garlic cloves",
+            "amount": 3.0,
+            "unit": "",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 3.0,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 3.0,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 1032,
+            "aisle": "Cheese",
+            "image": "parmesan.jpg",
+            "consistency": "SOLID",
+            "name": "parmesan cheese",
+            "nameClean": "parmesan cheese",
+            "original": "1 cup grated Parmesan cheese",
+            "originalName": "grated Parmesan cheese",
+            "amount": 1.0,
+            "unit": "cup",
+            "meta": [
+              "grated"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1.0,
+                "unitShort": "cup",
+                "unitLong": "cup"
+              },
+              "metric": {
+                "amount": 100.0,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 2047,
+            "aisle": "Spices and Seasonings",
+            "image": "salt.jpg",
+            "consistency": "SOLID",
+            "name": "salt",
+            "nameClean": "salt",
+            "original": "1 teaspoon salt",
+            "originalName": "salt",
+            "amount": 1.0,
+            "unit": "teaspoon",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1.0,
+                "unitShort": "tsp",
+                "unitLong": "teaspoon"
+              },
+              "metric": {
+                "amount": 1.0,
+                "unitShort": "tsp",
+                "unitLong": "teaspoon"
+              }
+            }
+          },
+          {
+            "id": 10112155,
+            "aisle": "Baking",
+            "image": "walnuts.jpg",
+            "consistency": "SOLID",
+            "name": "walnuts",
+            "nameClean": "walnuts",
+            "original": "1/4 cup roughly chopped walnuts",
+            "originalName": "roughly chopped walnuts",
+            "amount": 0.25,
+            "unit": "cup",
+            "meta": [
+              "roughly chopped"
+            ],
+            "measures": {
+              "us": {
+                "amount": 0.25,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 29.25,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          }
+        ],
+        "summary": "The Best Arugula Pesto takes roughly <b>45 minutes</b> from beginning to end. For <b>91 cents per serving</b>, this recipe <b>covers 7%</b> of your daily requirements of vitamins and minerals. This recipe serves 6. This condiment has <b>139 calories</b>, <b>6g of protein</b>, and <b>12g of fat</b> per serving. 3 people found this recipe to be scrumptious and satisfying. A mixture of arugula, extra virgin olive oil, salt, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is a good option if you're following a <b>gluten free, primal, and ketogenic</b> diet. It is brought to you by Foodista. With a spoonacular <b>score of 45%</b>, this dish is solid. Try <a href=\"https://spoonacular.com/recipes/arugula-pesto-pesto-di-rucola-300106\">Arugula Pesto: Pesto Di Rucola</a>, <a href=\"https://spoonacular.com/recipes/arugula-pesto-910971\">Arugula Pesto</a>, and <a href=\"https://spoonacular.com/recipes/arugula-pesto-1293871\">Arugula Pesto</a> for similar recipes.",
+        "cuisines": [],
+        "dishTypes": [
+          "condiment",
+          "dip",
+          "sauce",
+          "spread"
+        ],
+        "diets": [
+          "gluten free",
+          "primal",
+          "ketogenic"
+        ],
+        "occasions": [],
+        "instructions": "<ol><li>The great thing about a pesto is that it is so simple to make! I cant believe I dont make it more often! You take all the arugula, walnuts, garlic and parsley and put it in your blender or food processor.</li><li>Give it a pulse a few times to chop everything down a little bit.</li><li>Now you are going to pour in the oil while you hit the pulse button to make sure the pesto is mixing while the oil is added.</li><li>Take off the lid and you are almost done! Scoop the pesto out and into a dish or a bowl or a jar.</li><li>Cooking Tip** At this point if you wanted to can this you could. Or you can scoop it into an ice cube tray and freeze it! after about 6 hours when it is frozen just pop them out and put the pesto cubes in a zip lock bag or air tight container and freeze them! They will keep for a month! Then anytime you want to add it to a recipe you can pop it out and toss it in and kick anything you are making up a notch! Once it is thawed out you can stir in the Parmesan cheese.</li><li>Now you want to add the grated Parmesan.</li><li>At this point you need to test it and see how much salt you need to add. You can add a dash in when you are blending it but the Parmesan cheese is salty so I like to wait until after and if it needs a little bit then I add it in at the end. This way I can make sure it is not too salty or too bland. Once you have salted it and stirred it up you are done!</li></ol>",
+        "analyzedInstructions": [
+          {
+            "name": "",
+            "steps": [
+              {
+                "number": 1,
+                "step": "The great thing about a pesto is that it is so simple to make! I cant believe I dont make it more often! You take all the arugula, walnuts, garlic and parsley and put it in your blender or food processor.Give it a pulse a few times to chop everything down a little bit.Now you are going to pour in the oil while you hit the pulse button to make sure the pesto is mixing while the oil is added.Take off the lid and you are almost done! Scoop the pesto out and into a dish or a bowl or a jar.Cooking Tip** At this point if you wanted to can this you could. Or you can scoop it into an ice cube tray and freeze it! after about 6 hours when it is frozen just pop them out and put the pesto cubes in a zip lock bag or air tight container and freeze them! They will keep for a month! Then anytime you want to add it to a recipe you can pop it out and toss it in and kick anything you are making up a notch! Once it is thawed out you can stir in the Parmesan cheese.Now you want to add the grated Parmesan.At this point you need to test it and see how much salt you need to add. You can add a dash in when you are blending it but the Parmesan cheese is salty so I like to wait until after and if it needs a little bit then I add it in at the end. This way I can make sure it is not too salty or too bland. Once you have salted it and stirred it up you are done!",
+                "ingredients": [
+                  {
+                    "id": 1033,
+                    "name": "parmesan",
+                    "localizedName": "parmesan",
+                    "image": "parmesan.jpg"
+                  },
+                  {
+                    "id": 10014412,
+                    "name": "ice cubes",
+                    "localizedName": "ice cubes",
+                    "image": "ice-cubes.png"
+                  },
+                  {
+                    "id": 11959,
+                    "name": "arugula",
+                    "localizedName": "arugula",
+                    "image": "arugula-or-rocket-salad.jpg"
+                  },
+                  {
+                    "id": 11297,
+                    "name": "parsley",
+                    "localizedName": "parsley",
+                    "image": "parsley.jpg"
+                  },
+                  {
+                    "id": 12155,
+                    "name": "walnuts",
+                    "localizedName": "walnuts",
+                    "image": "https://spoonacular.com/cdn/ingredients_100x100/walnuts.jpg"
+                  },
+                  {
+                    "id": 11215,
+                    "name": "garlic",
+                    "localizedName": "garlic",
+                    "image": "garlic.png"
+                  },
+                  {
+                    "id": 93698,
+                    "name": "pesto",
+                    "localizedName": "pesto",
+                    "image": "basil-pesto.png"
+                  },
+                  {
+                    "id": 2047,
+                    "name": "salt",
+                    "localizedName": "salt",
+                    "image": "salt.jpg"
+                  },
+                  {
+                    "id": 4582,
+                    "name": "cooking oil",
+                    "localizedName": "cooking oil",
+                    "image": "vegetable-oil.jpg"
+                  },
+                  {
+                    "id": 0,
+                    "name": "pop",
+                    "localizedName": "soft drink",
+                    "image": ""
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404771,
+                    "name": "food processor",
+                    "localizedName": "food processor",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/food-processor.png"
+                  },
+                  {
+                    "id": 406911,
+                    "name": "ice cube tray",
+                    "localizedName": "ice cube tray",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/ice-cube-tray.jpg"
+                  },
+                  {
+                    "id": 404726,
+                    "name": "blender",
+                    "localizedName": "blender",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                  },
+                  {
+                    "id": 404783,
+                    "name": "bowl",
+                    "localizedName": "bowl",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                  }
+                ],
+                "length": {
+                  "number": 360,
+                  "unit": "minutes"
+                }
+              }
+            ]
+          }
+        ],
+        "originalId": null,
+        "spoonacularScore": 47.79374694824219,
+        "spoonacularSourceUrl": "https://spoonacular.com/the-best-arugula-pesto-663206"
+      }
+    ]
+  }
+}

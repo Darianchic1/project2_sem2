@@ -1,0 +1,494 @@
+{
+  "timestamp": "2025-06-08T17:00:02.994346",
+  "data": {
+    "recipes": [
+      {
+        "id": 648895,
+        "image": "https://img.spoonacular.com/recipes/648895-556x370.jpg",
+        "imageType": "jpg",
+        "title": "Kielbasa With Brussels Sprouts In Mustard Cream Sauce",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "http://www.foodista.com/recipe/77ZSLL4Y/kielbasa-with-brussels-sprouts-in-mustard-cream-sauce",
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": true,
+        "dairyFree": false,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "lowFodmap": false,
+        "weightWatcherSmartPoints": 21,
+        "gaps": "no",
+        "preparationMinutes": null,
+        "cookingMinutes": null,
+        "aggregateLikes": 4,
+        "healthScore": 40.0,
+        "creditsText": "foodista.com",
+        "license": null,
+        "sourceName": "foodista.com",
+        "pricePerServing": 275.75,
+        "extendedIngredients": [
+          {
+            "id": 11098,
+            "aisle": "Produce",
+            "image": "brussels-sprouts.jpg",
+            "consistency": "SOLID",
+            "name": "brussels sprouts",
+            "nameClean": "brussels sprouts",
+            "original": "1 1/2 pounds brussels sprouts",
+            "originalName": "brussels sprouts",
+            "amount": 1.5,
+            "unit": "pounds",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1.5,
+                "unitShort": "lb",
+                "unitLong": "pounds"
+              },
+              "metric": {
+                "amount": 680.389,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 10116034,
+            "aisle": "Canned and Jarred",
+            "image": "white-beans.jpg",
+            "consistency": "SOLID",
+            "name": "kidney beans",
+            "nameClean": "kidney beans",
+            "original": "2/3 can white kidney beans",
+            "originalName": "white kidney beans",
+            "amount": 0.6666667,
+            "unit": "can",
+            "meta": [
+              "white"
+            ],
+            "measures": {
+              "us": {
+                "amount": 0.667,
+                "unitShort": "can",
+                "unitLong": "cans"
+              },
+              "metric": {
+                "amount": 0.667,
+                "unitShort": "can",
+                "unitLong": "cans"
+              }
+            }
+          },
+          {
+            "id": 1012046,
+            "aisle": "Condiments",
+            "image": "whole-grain-mustard.png",
+            "consistency": "LIQUID",
+            "name": "coarse mustard",
+            "nameClean": "coarse mustard",
+            "original": "2 tablespoons coarse mustard",
+            "originalName": "coarse mustard",
+            "amount": 2.0,
+            "unit": "tablespoons",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 2.0,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              },
+              "metric": {
+                "amount": 2.0,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              }
+            }
+          },
+          {
+            "id": 1034053,
+            "aisle": "Oil, Vinegar, Salad Dressing",
+            "image": "olive-oil.jpg",
+            "consistency": "LIQUID",
+            "name": "extra virgin olive oil",
+            "nameClean": "extra virgin olive oil",
+            "original": "extra virgin olive oil, kosher salt, and freshly-ground blac",
+            "originalName": "extra virgin olive oil, kosher salt, and freshly-ground blac",
+            "amount": 4.0,
+            "unit": "servings",
+            "meta": [
+              "freshly-ground"
+            ],
+            "measures": {
+              "us": {
+                "amount": 4.0,
+                "unitShort": "servings",
+                "unitLong": "servings"
+              },
+              "metric": {
+                "amount": 4.0,
+                "unitShort": "servings",
+                "unitLong": "servings"
+              }
+            }
+          },
+          {
+            "id": 11215,
+            "aisle": "Produce",
+            "image": "garlic.png",
+            "consistency": "SOLID",
+            "name": "garlic",
+            "nameClean": "garlic",
+            "original": "4 large cloves garlic",
+            "originalName": "garlic",
+            "amount": 4.0,
+            "unit": "large cloves",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 4.0,
+                "unitShort": "large cloves",
+                "unitLong": "large cloves"
+              },
+              "metric": {
+                "amount": 4.0,
+                "unitShort": "large cloves",
+                "unitLong": "large cloves"
+              }
+            }
+          },
+          {
+            "id": 1053,
+            "aisle": "Milk, Eggs, Other Dairy",
+            "image": "fluid-cream.jpg",
+            "consistency": "LIQUID",
+            "name": "heavy cream",
+            "nameClean": "heavy cream",
+            "original": "1/4 cup heavy cream",
+            "originalName": "heavy cream",
+            "amount": 0.25,
+            "unit": "cup",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 0.25,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 59.5,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 7059,
+            "aisle": "Meat",
+            "image": "smoked-sausage.png",
+            "consistency": "SOLID",
+            "name": "kielbasa",
+            "nameClean": "kielbasa",
+            "original": "1 pound kielbasa",
+            "originalName": "kielbasa",
+            "amount": 1.0,
+            "unit": "pound",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1.0,
+                "unitShort": "lb",
+                "unitLong": "pound"
+              },
+              "metric": {
+                "amount": 453.592,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 11677,
+            "aisle": "Produce",
+            "image": "shallots.jpg",
+            "consistency": "SOLID",
+            "name": "shallot",
+            "nameClean": "shallot",
+            "original": "1 medium shallot",
+            "originalName": "shallot",
+            "amount": 1.0,
+            "unit": "medium",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1.0,
+                "unitShort": "medium",
+                "unitLong": "medium"
+              },
+              "metric": {
+                "amount": 1.0,
+                "unitShort": "medium",
+                "unitLong": "medium"
+              }
+            }
+          }
+        ],
+        "summary": "The recipe Kielbasa With Brussels Sprouts In Mustard Cream Sauce can be made <b>in about 45 minutes</b>. This gluten free recipe serves 4 and costs <b>$2.76 per serving</b>. One portion of this dish contains about <b>27g of protein</b>, <b>53g of fat</b>, and a total of <b>692 calories</b>. If you have extra virgin olive oil, heavy cream, garlic, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. This recipe is liked by 4 foodies and cooks. Not a lot of people really liked this main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 84%</b>. This score is excellent. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/roasted-brussels-sprouts-and-bacon-in-a-mustard-cream-sauce-247654\">Roasted Brussels Sprouts and Bacon in a Mustard Cream Sauce</a>, <a href=\"https://spoonacular.com/recipes/braised-brussels-sprouts-in-mustard-sauce-10820\">Braised Brussels Sprouts in Mustard Sauce</a>, and <a href=\"https://spoonacular.com/recipes/brussels-sprouts-in-creamy-mustard-sauce-10822\">Brussels Sprouts in Creamy Mustard Sauce</a>.",
+        "cuisines": [],
+        "dishTypes": [
+          "lunch",
+          "main course",
+          "main dish",
+          "dinner"
+        ],
+        "diets": [
+          "gluten free"
+        ],
+        "occasions": [],
+        "instructions": "<ol><li>Peel the shallot and cut into quarters.  Make a small pouch out of aluminum foil (2 layers thick) and place inside the shallot and garlic.  Coat with olive oil and a generous pinch of salt.  Seal the pouch tightly and place in the oven (I recommend the toaster oven) at 400F for 30 minutes.</li><li>Rinse and pick clean the Brussels sprouts.  Cut each sprout in half, discarding any wilted outer leaves.  Steam the Brussels sprouts until tender when pierced with a fork.  Set aside.</li><li>Rinse and drain the beans.  Since, 1 can is a little too bean-heavy, save about 1/3 of the beans for something else.</li><li>Slice the kielbasa on a steep bias into 1/4 slices.  Heat 1 tsp. of olive oil in a large, heavy bottomed non-nonstick skillet over medium high heat.  Arrange the kielbasa slices and fry until crispy on each side, about 3 minutes per side. Set aside on paper towels to drain.</li><li>Add a generous tablespoon of good olive oil and keep the heat at medium high.  Unwrap the garlic and shallot and smash them using the flat side of your knife.  They should be very soft.  Add them to the skillet and cook for about 1 minute.</li><li>Add the mustard and cream to the skillet and stir to combine.  Reduce the heat to medium low and add the brussels sprouts and beans (as many as you want to use).  Toss everything together to coat, then season to taste with a generous amount of salt and black pepper.</li><li>Plate the kielbasa on top of your brussels sprouts and beans in a large bowl to serve.</li></ol>",
+        "analyzedInstructions": [
+          {
+            "name": "",
+            "steps": [
+              {
+                "number": 1,
+                "step": "Peel the shallot and cut into quarters.  Make a small pouch out of aluminum foil (2 layers thick) and place inside the shallot and garlic.  Coat with olive oil and a generous pinch of salt.  Seal the pouch tightly and place in the oven (I recommend the toaster oven) at 400F for 30 minutes.Rinse and pick clean the Brussels sprouts.",
+                "ingredients": [
+                  {
+                    "id": 11098,
+                    "name": "brussels sprouts",
+                    "localizedName": "brussels sprouts",
+                    "image": "brussels-sprouts.jpg"
+                  },
+                  {
+                    "id": 4053,
+                    "name": "olive oil",
+                    "localizedName": "olive oil",
+                    "image": "olive-oil.jpg"
+                  },
+                  {
+                    "id": 11677,
+                    "name": "shallot",
+                    "localizedName": "shallot",
+                    "image": "shallots.jpg"
+                  },
+                  {
+                    "id": 11215,
+                    "name": "garlic",
+                    "localizedName": "garlic",
+                    "image": "garlic.png"
+                  },
+                  {
+                    "id": 2047,
+                    "name": "salt",
+                    "localizedName": "salt",
+                    "image": "salt.jpg"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404765,
+                    "name": "aluminum foil",
+                    "localizedName": "aluminum foil",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/aluminum-foil.png"
+                  },
+                  {
+                    "id": 404674,
+                    "name": "toaster",
+                    "localizedName": "toaster",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/toaster.jpg"
+                  },
+                  {
+                    "id": 404784,
+                    "name": "oven",
+                    "localizedName": "oven",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                    "temperature": {
+                      "number": 400.0,
+                      "unit": "Fahrenheit"
+                    }
+                  }
+                ],
+                "length": {
+                  "number": 30,
+                  "unit": "minutes"
+                }
+              },
+              {
+                "number": 2,
+                "step": "Cut each sprout in half, discarding any wilted outer leaves.  Steam the Brussels sprouts until tender when pierced with a fork.  Set aside.Rinse and drain the beans.  Since, 1 can is a little too bean-heavy, save about 1/3 of the beans for something else.Slice the kielbasa on a steep bias into 1/4 slices.",
+                "ingredients": [
+                  {
+                    "id": 11098,
+                    "name": "brussels sprouts",
+                    "localizedName": "brussels sprouts",
+                    "image": "brussels-sprouts.jpg"
+                  },
+                  {
+                    "id": 7059,
+                    "name": "kielbasa",
+                    "localizedName": "kielbasa",
+                    "image": "smoked-sausage.png"
+                  },
+                  {
+                    "id": 0,
+                    "name": "beans",
+                    "localizedName": "beans",
+                    "image": "kidney-beans.jpg"
+                  }
+                ],
+                "equipment": []
+              },
+              {
+                "number": 3,
+                "step": "Heat 1 tsp. of olive oil in a large, heavy bottomed non-nonstick skillet over medium high heat.  Arrange the kielbasa slices and fry until crispy on each side, about 3 minutes per side. Set aside on paper towels to drain.",
+                "ingredients": [
+                  {
+                    "id": 4053,
+                    "name": "olive oil",
+                    "localizedName": "olive oil",
+                    "image": "olive-oil.jpg"
+                  },
+                  {
+                    "id": 7059,
+                    "name": "kielbasa",
+                    "localizedName": "kielbasa",
+                    "image": "smoked-sausage.png"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 405895,
+                    "name": "paper towels",
+                    "localizedName": "paper towels",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/paper-towels.jpg"
+                  },
+                  {
+                    "id": 404645,
+                    "name": "frying pan",
+                    "localizedName": "frying pan",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                  }
+                ],
+                "length": {
+                  "number": 3,
+                  "unit": "minutes"
+                }
+              },
+              {
+                "number": 4,
+                "step": "Add a generous tablespoon of good olive oil and keep the heat at medium high.  Unwrap the garlic and shallot and smash them using the flat side of your knife.  They should be very soft.",
+                "ingredients": [
+                  {
+                    "id": 4053,
+                    "name": "olive oil",
+                    "localizedName": "olive oil",
+                    "image": "olive-oil.jpg"
+                  },
+                  {
+                    "id": 11677,
+                    "name": "shallot",
+                    "localizedName": "shallot",
+                    "image": "shallots.jpg"
+                  },
+                  {
+                    "id": 11215,
+                    "name": "garlic",
+                    "localizedName": "garlic",
+                    "image": "garlic.png"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404745,
+                    "name": "knife",
+                    "localizedName": "knife",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/chefs-knife.jpg"
+                  }
+                ]
+              },
+              {
+                "number": 5,
+                "step": "Add them to the skillet and cook for about 1 minute.",
+                "ingredients": [],
+                "equipment": [
+                  {
+                    "id": 404645,
+                    "name": "frying pan",
+                    "localizedName": "frying pan",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                  }
+                ],
+                "length": {
+                  "number": 1,
+                  "unit": "minutes"
+                }
+              },
+              {
+                "number": 6,
+                "step": "Add the mustard and cream to the skillet and stir to combine.  Reduce the heat to medium low and add the brussels sprouts and beans (as many as you want to use).  Toss everything together to coat, then season to taste with a generous amount of salt and black pepper.Plate the kielbasa on top of your brussels sprouts and beans in a large bowl to serve.",
+                "ingredients": [
+                  {
+                    "id": 1102047,
+                    "name": "salt and pepper",
+                    "localizedName": "salt and pepper",
+                    "image": "salt-and-pepper.jpg"
+                  },
+                  {
+                    "id": 11098,
+                    "name": "brussels sprouts",
+                    "localizedName": "brussels sprouts",
+                    "image": "brussels-sprouts.jpg"
+                  },
+                  {
+                    "id": 7059,
+                    "name": "kielbasa",
+                    "localizedName": "kielbasa",
+                    "image": "smoked-sausage.png"
+                  },
+                  {
+                    "id": 2046,
+                    "name": "mustard",
+                    "localizedName": "mustard",
+                    "image": "regular-mustard.jpg"
+                  },
+                  {
+                    "id": 0,
+                    "name": "beans",
+                    "localizedName": "beans",
+                    "image": "kidney-beans.jpg"
+                  },
+                  {
+                    "id": 1053,
+                    "name": "cream",
+                    "localizedName": "cream",
+                    "image": "fluid-cream.jpg"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404645,
+                    "name": "frying pan",
+                    "localizedName": "frying pan",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                  },
+                  {
+                    "id": 404783,
+                    "name": "bowl",
+                    "localizedName": "bowl",
+                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalId": null,
+        "spoonacularScore": 85.6063232421875,
+        "spoonacularSourceUrl": "https://spoonacular.com/kielbasa-with-brussels-sprouts-in-mustard-cream-sauce-648895"
+      }
+    ]
+  }
+}

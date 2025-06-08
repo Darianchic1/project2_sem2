@@ -1,0 +1,81 @@
+2025-06-08 16:54:37,824 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 16:54:37,867 - aiogram.dispatcher - INFO - Run polling for bot @MaminCulinarBot id=7771701073 - 'mamin_culinar'
+2025-06-08 16:54:51,611 - aiogram.event - INFO - Update id=38754720 is handled. Duration 382 ms by bot id=7771701073
+2025-06-08 16:54:52,524 - aiogram.event - INFO - Update id=38754721 is handled. Duration 121 ms by bot id=7771701073
+2025-06-08 16:55:18,224 - aiogram.event - INFO - Update id=38754722 is handled. Duration 178 ms by bot id=7771701073
+2025-06-08 16:55:19,531 - services.api_client - INFO - Getting random recipe with diet: 
+2025-06-08 16:55:19,532 - services.api_client - INFO - Making API request to recipes/random with params: {'number': 1, 'apiKey': 'fd82940775944a618439b1dca69776bc'}
+2025-06-08 16:55:24,534 - services.api_client - ERROR - API request timeout for recipes/random
+2025-06-08 16:55:24,535 - routers.handlers.random_recipe - ERROR - API error getting random recipe: Превышено время ожидания ответа от API
+2025-06-08 16:55:24,606 - aiogram.event - INFO - Update id=38754723 is handled. Duration 5170 ms by bot id=7771701073
+2025-06-08 16:55:26,879 - aiogram.event - INFO - Update id=38754724 is not handled. Duration 3 ms by bot id=7771701073
+2025-06-08 16:55:34,339 - aiogram.event - INFO - Update id=38754725 is not handled. Duration 4 ms by bot id=7771701073
+2025-06-08 16:56:13,570 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-06-08 16:56:13,573 - aiogram.dispatcher - INFO - Polling stopped for bot @MaminCulinarBot id=7771701073 - 'mamin_culinar'
+2025-06-08 16:56:13,574 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-08 16:59:57,378 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 16:59:57,420 - aiogram.dispatcher - INFO - Run polling for bot @MaminCulinarBot id=7771701073 - 'mamin_culinar'
+2025-06-08 17:00:01,465 - aiogram.event - INFO - Update id=38754726 is handled. Duration 172 ms by bot id=7771701073
+2025-06-08 17:00:02,997 - services.api_client - INFO - Data cached
+2025-06-08 17:00:03,165 - aiogram.event - INFO - Update id=38754727 is handled. Duration 478 ms by bot id=7771701073
+2025-06-08 17:00:05,311 - aiogram.event - INFO - Update id=38754728 is handled. Duration 197 ms by bot id=7771701073
+2025-06-08 17:00:08,468 - aiogram.event - INFO - Update id=38754729 is handled. Duration 115 ms by bot id=7771701073
+2025-06-08 17:00:11,766 - aiogram.event - INFO - Update id=38754730 is handled. Duration 141 ms by bot id=7771701073
+2025-06-08 17:00:13,025 - aiogram.event - INFO - Update id=38754731 is handled. Duration 71 ms by bot id=7771701073
+2025-06-08 17:00:14,103 - services.database - INFO - Removed all 1 favorites for user 1093580334
+2025-06-08 17:00:14,236 - aiogram.event - INFO - Update id=38754732 is handled. Duration 152 ms by bot id=7771701073
+2025-06-08 17:00:16,539 - aiogram.event - INFO - Update id=38754733 is handled. Duration 98 ms by bot id=7771701073
+2025-06-08 17:08:12,344 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 17:08:12,398 - aiogram.dispatcher - INFO - Run polling for bot @MaminCulinarBot id=7771701073 - 'mamin_culinar'
+2025-06-08 17:08:27,236 - aiogram.event - INFO - Update id=38754734 is handled. Duration 197 ms by bot id=7771701073
+2025-06-08 17:08:32,416 - aiogram.event - INFO - Update id=38754735 is handled. Duration 112 ms by bot id=7771701073
+2025-06-08 17:08:33,820 - services.api_client - INFO - Переведённый ингредиент: курица → chicken
+2025-06-08 17:08:44,254 - aiogram.event - INFO - Update id=38754737 is handled. Duration 75 ms by bot id=7771701073
+2025-06-08 17:08:45,864 - services.api_client - INFO - Data cached
+2025-06-08 17:08:45,948 - aiogram.event - INFO - Update id=38754738 is handled. Duration 324 ms by bot id=7771701073
+2025-06-08 17:08:47,389 - aiogram.event - INFO - Update id=38754739 is handled. Duration 63 ms by bot id=7771701073
+2025-06-08 17:08:49,301 - services.api_client - ERROR - Request timeout
+2025-06-08 17:08:49,650 - aiogram.event - INFO - Update id=38754736 is handled. Duration 16064 ms by bot id=7771701073
+2025-06-08 17:08:52,201 - aiogram.event - INFO - Update id=38754740 is handled. Duration 110 ms by bot id=7771701073
+2025-06-08 17:08:57,489 - aiogram.event - INFO - Update id=38754741 is handled. Duration 297 ms by bot id=7771701073
+2025-06-08 17:08:59,499 - aiogram.event - INFO - Update id=38754742 is handled. Duration 115 ms by bot id=7771701073
+2025-06-08 17:09:01,569 - services.database - INFO - Removed favorite: 872063132, 654944
+2025-06-08 17:09:01,714 - aiogram.event - INFO - Update id=38754743 is handled. Duration 153 ms by bot id=7771701073
+2025-06-08 17:09:03,429 - aiogram.event - INFO - Update id=38754744 is handled. Duration 89 ms by bot id=7771701073
+2025-06-08 17:10:03,334 - services.api_client - INFO - Переведённый ингредиент: молоко → milk
+2025-06-08 17:10:03,577 - services.api_client - INFO - Data cached
+2025-06-08 17:10:04,169 - aiogram.event - INFO - Update id=38754745 is handled. Duration 1238 ms by bot id=7771701073
+2025-06-08 17:10:11,294 - services.api_client - INFO - Переведённый ингредиент: яйца → eggs
+2025-06-08 17:10:11,711 - services.api_client - INFO - Data cached
+2025-06-08 17:10:12,151 - aiogram.event - INFO - Update id=38754746 is handled. Duration 1055 ms by bot id=7771701073
+2025-06-08 17:10:17,973 - aiogram.event - INFO - Update id=38754747 is handled. Duration 80 ms by bot id=7771701073
+2025-06-08 17:10:21,729 - aiogram.event - INFO - Update id=38754748 is handled. Duration 129 ms by bot id=7771701073
+2025-06-08 17:10:25,929 - services.api_client - INFO - Data cached
+2025-06-08 17:10:26,051 - aiogram.event - INFO - Update id=38754749 is handled. Duration 696 ms by bot id=7771701073
+2025-06-08 17:10:30,114 - aiogram.event - INFO - Update id=38754750 is handled. Duration 114 ms by bot id=7771701073
+2025-06-08 17:10:33,333 - aiogram.event - INFO - Update id=38754751 is handled. Duration 176 ms by bot id=7771701073
+2025-06-08 17:10:37,932 - services.api_client - INFO - Переведённый ингредиент: лук → onion
+2025-06-08 17:10:38,219 - services.api_client - INFO - Data cached
+2025-06-08 17:10:38,656 - aiogram.event - INFO - Update id=38754752 is handled. Duration 1010 ms by bot id=7771701073
+2025-06-08 17:10:40,099 - aiogram.event - INFO - Update id=38754753 is handled. Duration 119 ms by bot id=7771701073
+2025-06-08 17:10:44,904 - aiogram.event - INFO - Update id=38754754 is handled. Duration 97 ms by bot id=7771701073
+2025-06-08 17:10:48,364 - aiogram.event - INFO - Update id=38754755 is handled. Duration 61 ms by bot id=7771701073
+2025-06-08 17:10:58,614 - services.api_client - INFO - Переведённый ингредиент: Грибы → mushrooms
+2025-06-08 17:10:58,839 - services.api_client - INFO - Data cached
+2025-06-08 17:10:58,978 - aiogram.event - INFO - Update id=38754756 is handled. Duration 554 ms by bot id=7771701073
+2025-06-08 17:11:02,065 - aiogram.event - INFO - Update id=38754757 is handled. Duration 266 ms by bot id=7771701073
+2025-06-08 17:11:04,105 - aiogram.event - INFO - Update id=38754758 is handled. Duration 64 ms by bot id=7771701073
+2025-06-08 17:11:39,849 - aiogram.event - INFO - Update id=38754759 is handled. Duration 196 ms by bot id=7771701073
+2025-06-08 17:11:42,233 - aiogram.event - INFO - Update id=38754760 is handled. Duration 76 ms by bot id=7771701073
+2025-06-08 17:11:45,124 - aiogram.event - INFO - Update id=38754761 is handled. Duration 250 ms by bot id=7771701073
+2025-06-08 17:11:46,687 - services.api_client - INFO - Переведённый ингредиент: картофель → potato
+2025-06-08 17:11:46,925 - services.api_client - INFO - Data cached
+2025-06-08 17:11:47,768 - aiogram.event - INFO - Update id=38754762 is handled. Duration 1353 ms by bot id=7771701073
+2025-06-08 17:11:50,948 - aiogram.event - INFO - Update id=38754763 is handled. Duration 350 ms by bot id=7771701073
+2025-06-08 17:11:52,401 - aiogram.event - INFO - Update id=38754764 is handled. Duration 99 ms by bot id=7771701073
+2025-06-08 17:11:54,210 - services.api_client - INFO - Переведённый ингредиент: рис → rice
+2025-06-08 17:11:58,325 - services.api_client - INFO - Переведённый ингредиент: рис → rice
+2025-06-08 17:11:58,538 - services.api_client - INFO - Data cached
+2025-06-08 17:11:58,926 - aiogram.event - INFO - Update id=38754766 is handled. Duration 782 ms by bot id=7771701073
+2025-06-08 17:12:09,302 - services.api_client - ERROR - Request timeout
+2025-06-08 17:12:09,383 - aiogram.event - INFO - Update id=38754765 is handled. Duration 15334 ms by bot id=7771701073
